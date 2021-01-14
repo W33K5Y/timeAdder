@@ -98,5 +98,5 @@ let combinedSecs = valOneToSecs + valTwoToSecs;
 return secsToString(combinedSecs); 
 }
 }
-console.log(timeAdder(1,'day', 16, 'minutes'));
+console.log(timeAdder(5,'day', 16, 'minutes'));
 
